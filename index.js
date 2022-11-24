@@ -2,13 +2,19 @@ var hola = "Hola Gente";
 
 console.log(hola);
 
-const objeto = { 
+const objeto = {
     a: 3,
     ar: [2, 2],
     nombre: "Pedro",
-    objeto2: {
-        
-    }
 }
+const  objeto2 = {
+        objeto2: {
+            casa: "Nogal",
+            barrio: "Barbara",
+        }
+    }
 
-console.log('Hola ', objeto);
+
+
+console.log('Hola ', objeto, objeto2);
+
