@@ -1,6 +1,11 @@
-var hola = "Hola Gente";
+// Mensjae de entrada
 
-console.log(hola);
+var start = "Puerta de entrada al proyecto";
+console.log(start);
+
+var ejecutar = "Hola Gente";
+
+console.log(ejecutar);
 
 const objeto = {
     a: 3,
@@ -16,5 +21,6 @@ const  objeto2 = {
 
 
 
-console.log('Hola ', objeto, objeto2);
+console.log('procesando... ', objeto, objeto2);
 
+//Mensaje de termunado
